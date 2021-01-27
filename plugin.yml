@@ -1,0 +1,7 @@
+name: NineLives
+version: 1
+main: ru.dseymo.nineLives.Main
+author: Dseymo
+commands:
+   lives:
+      description: ""
